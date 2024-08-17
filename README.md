@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/hSKnOiq.png" height="80%" width="80%" alt="ISS"/>
 </p>
 <p>
-This is one of the first real steps of the installation processes, however, before this, basic knowledge of virtual machines and remote desktop is needed to access the device that I am installing osTicket on. IIS is a web server that osTicket runs on and allows users to utilize its features in an office setting.
+This is one of the first steps of the installation processes, however, before this, basic knowledge of virtual machines and remote desktop is needed to access the device that I am installing osTicket on. IIS is a web server that osTicket runs on and allows users to utilize its features in an office setting.
 </p>
 <br />
 
